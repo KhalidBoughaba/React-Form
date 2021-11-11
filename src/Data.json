@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "username": "khalid",
+      "email": "a@gmail.com",
+      "password": "azert",
+      "cpassword": "azert",
+      "id": 2
+    },
+    {
+      "username": "dawkha",
+      "email": "d@h.kk",
+      "password": "12345",
+      "cpassword": "12345",
+      "id": 3
+    },
+    {
+      "username": "admin",
+      "email": "miri@gmail.com",
+      "password": "nnnn",
+      "cpassword": "nnnn",
+      "id": 4
+    },
+    {
+      "username": "batiqs",
+      "email": "miri@gmail.com",
+      "password": "gggg",
+      "cpassword": "gggg",
+      "id": 5
+    },
+    {
+      "username": "batiqs",
+      "email": "a@gmail.com",
+      "password": "llll",
+      "cpassword": "llll",
+      "id": 6
+    },
+    {
+      "username": "admin",
+      "email": "a@gmail.com",
+      "password": "mmmm",
+      "cpassword": "mmmm",
+      "id": 7
+    }
+  ]
+}
