@@ -41,6 +41,13 @@
       "password": "mmmm",
       "cpassword": "mmmm",
       "id": 7
+    },
+    {
+      "username": "bah",
+      "email": "miri@gmail.com",
+      "password": "WWWW",
+      "cpassword": "WWWW",
+      "id": 8
     }
   ]
 }

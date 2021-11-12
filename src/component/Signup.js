@@ -21,7 +21,7 @@ function Signup() {
 
   const hdlSub = (e) => {
     e.preventDefault();
-    axios.post("http://localhost:300/users", val).then(history.replace('/'));
+    axios.post("http://localhost:500/users", val).then(history.replace("/"));
   };
 
   return (
